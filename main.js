@@ -12,7 +12,7 @@ a[13 * 41 + 24] = true;
 a[13 * 41 + 25] = true;
 a[14 * 41 + 25] = true;
 
-setInterval(update, 500);
+setInterval(update, 800);
 
 function update() {
     let i, j, k;
